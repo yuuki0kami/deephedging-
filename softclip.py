@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Softclip
+ニューラルネットワークが出力する「ヘッジ量（アクション）」を、上限・下限の範囲内に滑らかに収めるための SoftClip（ソフトクリップ）機構を実装している。
 --------
 Objectives, mostly monetary utilities see forthcoming book learning-to-trade.com
 June 30, 2022

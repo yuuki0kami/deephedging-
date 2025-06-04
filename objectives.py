@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Deep Hedging Objectives
+ポートフォリオやヘッジ戦略の良し悪しを判断するための「効用関数（utility）」を数式として定義し、TensorFlowベースで学習や評価できるようにしたもの。
 -----------------------
 Objectives, mostly monetary utilities see forthcoming book learning-to-trade.com
 June 30, 2022

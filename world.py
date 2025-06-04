@@ -1,4 +1,5 @@
 """
+Deep Hedging の学習の舞台（仮想市場）を生成し、訓練データ（価格パス）を作るシミュレータクラスを定義している。
 Deep Hedging Example Worlds
 ---------------------------
 Example world for deep hedging.

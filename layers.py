@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Utility layers
+状態ベクトルからアクション（ポートフォリオのヘッジ構成）を出力する層を柔軟に構築できるようにする。
 --------------
 June 30, 2022
 @author: hansbuehler

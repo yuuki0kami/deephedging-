@@ -1,5 +1,6 @@
 # Deep Hedging - Agent Architecture
 ## Description of the default Deep Hedging Agent 
+#Deep Hedging フレームワークにおける 「エージェント（ネットワーク）」の構造と定義を詳細に記述した設計書
 
 This document describes the default agent used in the Deep Hedging code base. This is _not_ the agent used in our [Deep Hedging paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3120710) but is a more advanced version. 
 

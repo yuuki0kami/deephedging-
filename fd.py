@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lite Black & Scholes FD engine
+Black-Scholes モデルに基づいた有限差分法（Finite Difference Method, FD）によるオプション価格評価エンジン
 --
 @author: hansbuehler
 February 13 2023

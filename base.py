@@ -1,5 +1,6 @@
 """
 Deep Hedging Base.
+base.py は Deep Hedging プロジェクトの ユーティリティ基盤ライブラリです。学習・シミュレーションに共通で必要な「型変換・TensorFlow管理・集計関数・整形表示・最適化設定」などを一括で提供しています。
 ------------------
 Import this file in all deep hedging files.
 June 30, 2022

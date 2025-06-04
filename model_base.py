@@ -1,5 +1,6 @@
 """
 Keras Model base class with plenty of defaults
+ポートフォリオヘッジ戦略を表現するニューラルネット（Policy）を柔軟に構成できるようにする
 ----------------------------------------------
 * Cachable
 * Keeps best state

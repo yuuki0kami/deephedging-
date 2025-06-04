@@ -1,4 +1,4 @@
-
+#Deep Hedging モデルとブラック–ショールズモデル（BSモデル）のヘッジ性能を比較・可視化するためのスクリプト
 from deephedging.base import npCast, perct_exp, mean
 from cdxbasics.dynaplot import figure
 from cdxbasics.config import Config

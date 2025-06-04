@@ -1,5 +1,6 @@
 """
 Deep Hedging Gym.
+Deep Hedging の中核である トレーニング環境のエンジン（ジム） を構成するファイル
 -----------------
 Training environment for deep hedging.
 

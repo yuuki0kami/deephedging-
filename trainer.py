@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+Deep Hedging モデルを学習させるトレーナー（訓練制御器）として動作し、訓練・検証・可視化・キャッシュ保存などのすべてを管理する
 Deep Hedging Trainer
 --------------------
 Training loop with visualization for 

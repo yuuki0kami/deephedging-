@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Deep Hedging Trainer
+ディープヘッジング（Deep Hedging）モデルのトレーニング過程を可視化するためのコード
 --------------------
 Training loop with visualization for 
 
